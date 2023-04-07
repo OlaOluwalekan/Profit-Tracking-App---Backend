@@ -1,0 +1,32 @@
+{
+  "name": "profit-tracking-app---backend",
+  "version": "1.0.0",
+  "description": "Backend for Profit Tracking App with Olawale",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OlaOluwalekan/Profit-Tracking-App---Backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OlaOluwalekan/Profit-Tracking-App---Backend/issues"
+  },
+  "homepage": "https://github.com/OlaOluwalekan/Profit-Tracking-App---Backend#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
